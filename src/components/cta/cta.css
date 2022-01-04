@@ -1,8 +1,4 @@
 .gpt3__cta {
-
-    border: 1px solid white ;
-    color: white;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -14,13 +10,13 @@
     background: var(--gradient-bar)
 }
 
-/* .gpt3__cta-content {
+.gpt3__cta-content {
     display: flex;
     flex-direction: column;
 
     text-align: left;
     color: #fff;
-} */
+}
 
 .gpt3__cta-content p {
     font-family: var(--font-family);
